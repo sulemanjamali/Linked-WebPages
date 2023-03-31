@@ -1,0 +1,43 @@
+        <section>
+            <h2>Section 1</h2>
+            <article>
+                <h1>Paragraph 1</h1>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, culpa? Necessitatibus perferendis similique aliquam unde distinctio, 
+                    non pariatur quis nemo dicta beatae explicabo architecto eaque earum quae minus, voluptatibus ea consectetur. 
+                    Doloremque eaque aperiam iure, ex voluptate quo necessitatibus ullam officia, sint cumque labore ut sequi odit, velit amet nisi.</p>
+            </article>
+            <article>
+                <h1>Paragraph 2</h1>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, culpa? Necessitatibus perferendis similique aliquam unde distinctio, 
+                    non pariatur quis nemo dicta beatae explicabo architecto eaque earum quae minus, voluptatibus ea consectetur. 
+                    Doloremque eaque aperiam iure, ex voluptate quo necessitatibus ullam officia, sint cumque labore ut sequi odit, velit amet nisi.</p>
+            </article>
+
+        </section>
+        <section>
+            <h1>Section 2</h1>
+            <article>
+                
+                <h1>Paragraph 1</h1>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, culpa? Necessitatibus perferendis similique aliquam unde distinctio, 
+                    non pariatur quis nemo dicta beatae explicabo architecto eaque earum quae minus, voluptatibus ea consectetur. 
+                    Doloremque eaque aperiam iure, ex voluptate quo necessitatibus ullam officia, sint cumque labore ut sequi odit, velit amet nisi.</p>
+            </article>
+            <article>
+                <h1>Paragraph 2</h1>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, culpa? Necessitatibus perferendis similique aliquam unde distinctio, 
+                    non pariatur quis nemo dicta beatae explicabo architecto eaque earum quae minus, voluptatibus ea consectetur. 
+                    Doloremque eaque aperiam iure, ex voluptate quo necessitatibus ullam officia, sint cumque labore ut sequi odit, velit amet nisi.</p>
+            </article>
+
+        </section>
+        <aside>
+            <h1>Aside Heading</h1>
+            <article>
+                <h1>Paragraph Heading</h1>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, culpa? Necessitatibus perferendis similique aliquam unde distinctio, 
+                    non pariatur quis nemo dicta beatae explicabo architecto eaque earum quae minus, voluptatibus ea consectetur. 
+                    Doloremque eaque aperiam iure, ex voluptate quo necessitatibus ullam officia, sint cumque labore ut sequi odit, velit amet nisi.</p>
+            </article>
+
+        </aside>
